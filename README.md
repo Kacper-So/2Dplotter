@@ -9,6 +9,7 @@ Celem jest stworzenie urządzenia do rysowania na kartce, poruszającego się w 
 Obraz jest przetwarzany za pomocą niestandardowego profilu w slicerze Cura na plik G-code. Następnie G-code jest odczytywany z karty SD i interpretowany przez urządzenie.
 
 Dwa silniki krokowe sterują pozycją rysika zgodnie z koordynatami zawartymi w G-code, a serwomechanizm dociska długopis do kartki, umożliwiając rysowanie.
+
 ---
 
 ## Obrazy
